@@ -1,7 +1,7 @@
 # WebBar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MaydayV/webbar/main/Assets/app_icon.svg" alt="WebBar Icon" width="96" height="96" />
+  <img src="./Assets/app_icon.png" alt="WebBar Icon" width="96" height="96" />
 </p>
 
 <p align="center">
