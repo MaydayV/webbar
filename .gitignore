@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+.swiftpm/
+dist/
+
+# Local editor / macOS noise
+*.swp
+*.tmp
+*.orig
+*.log
+*.xcuserstate
